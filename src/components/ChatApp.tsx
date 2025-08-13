@@ -1,4 +1,3 @@
-// src/components/ChatApp.tsx
 import React, { useState, useEffect } from 'react';
 import { ChatRoom, User, Message, PrivateMessage } from '../types/chat.types';
 import { useSocket } from '../hooks/useSocket';
